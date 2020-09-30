@@ -4,4 +4,6 @@
 
 ##### What will be displayed:
 * Question prompt, simulation process, and result will be displayed on the console
+* Student name and choices he/she made
+* Text display that inform changes have occured
 * Each run will only display one simulation
