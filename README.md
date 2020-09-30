@@ -6,4 +6,4 @@
 * Question prompt, simulation process, and result
 * Student name and choices he/she made
 * Text display that inform changes of submission have occured
-* Each run will only display one simulation on the console
+* Each run will only display one simulation
